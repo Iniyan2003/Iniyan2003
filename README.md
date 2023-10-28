@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Iniyan2003&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
-# 👋 Hi, I'm Iniyan
+# Hi There, I'm Iniyan 👋
 
 Greetings on my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about technology. My area of expertise lies in the fields of data science and machine learning, where I excel in uncovering valuable insights from data and constructing predictive models to address practical real-world challenges.
 
@@ -42,9 +42,7 @@ At present, my focus is on enhancing my proficiency in the *MERN stack, which co
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SINDHUK2003&show_icons=true&hide=contribs,prs)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SINDHUK2003)
+![Iniyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iniyan2003&show_icons=true&theme=transparent)
 
 
 ## 📝 Latest Blog Posts
