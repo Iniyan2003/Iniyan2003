@@ -50,6 +50,8 @@ At present, my focus is on enhancing my proficiency in the *MERN stack, which co
 <!-- BLOG-POST-LIST:START -->
 - [Git at your windows](https://medium.com/@sviniyan2003/git-at-your-windows-6da7a7665635)
 - [What, Why, Where & How…](https://medium.com/@sviniyan2003/what-why-where-how-4238dff101bc)
+- [Java Development Kit (JDK) Setup](https://medium.com/@sviniyan2003/java-development-kit-jdk-setup-348ac5108b8b)
+- [Decoding the Web: A Brief Overview of HTTP Statuses](https://medium.com/@sviniyan2003/decoding-the-web-a-brief-overview-of-http-statuses-6a3ef0adefad)
 <!-- BLOG-POST-LIST:END -->
 
 
