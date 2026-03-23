@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Iniyan2003&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 # Hi There, I'm Iniyan 👋
 
-Greetings on my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about technology. My area of expertise lies in the fields of data science and machine learning, where I excel in uncovering valuable insights from data and constructing predictive models to address practical real-world challenges.
+Greetings on my GitHub profile! I'm a B.Tech graduate majoring in Artificial Intelligence and Data Science, passionate about technology. My area of expertise lies in the fields of data science and machine learning, where I excel in uncovering valuable insights from data and constructing predictive models to address practical, real-world challenges.
 
 
 ## 🚀 About Me
